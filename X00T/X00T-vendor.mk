@@ -1708,12 +1708,9 @@ PRODUCT_PACKAGES += \
     Perfdump \
     PowerOffAlarm \
     QFingerprintService \
-    Qmmi \
     SVIService \
-    SecProtect \
     SmartcardService \
     TimeService \
-    aptxui \
     WfdCommon \
     com.qti.snapdragon.sdk.display \
     qcrilhook \
